@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+VGA Display of IEEE IES-PS PH Chapter Project Dedication Credits
 
 ## How to test
 
-Explain how to use your project
+VGA Display. Font colors can change through changing the va;ies of the first 2 bits of ui_in
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+-VGA
+-Input Interface for ui_in
